@@ -1,4 +1,4 @@
-# Clustering and Classification Bank Transactions (V2)
+# Clustering and Classification Bank Transactions V2
 
 ## 📌 Deskripsi
 
@@ -18,7 +18,7 @@ Dataset yang digunakan dalam proyek ini memuat 2.512 sampel data transaksi perba
 | :-------------------------- | :---------------------------------------------------------------------------------- |
 | 🌐 **Programming Language** | `Python`                                                                            |
 | 🌱 **Environment**          | `Jupyter Notebook`                                                                  |
-| ⚛️ **Libraries**            | `NumPy`, `pandas`, `Matplotlib`, `seaborn`, `scikit-learn`, `Yellowbrick`, `Joblib` |
+| ⚛️ **Libraries**            | `NumPy`, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, `Yellowbrick`, `Joblib` |
 | ⚡ **Tool**                 | `Google Colab`                                                                      |
 
 ---
